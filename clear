@@ -1,0 +1,16 @@
+[1mdiff --git a/two.html b/two.html[m
+[1mindex 969b3da..1371b31 100644[m
+[1m--- a/two.html[m
+[1m+++ b/two.html[m
+[36m@@ -8,9 +8,7 @@[m
+ <body>[m
+     inshallah[m
+     <br>[m
+[31m-    bismillah<br>[m
+[31m-    allah huakbar[m
+[31m-    [m
+[32m+[m[32m    bismillah[m
+     [m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
